@@ -12,7 +12,7 @@ This program provides a **Graphical User Interface (GUI)** to convert images int
 ## Installation
 
 ### Prerequisites
-- Python 3.x installed on your machine.
+- Python 3.12 + installed on your machine.
 - Required libraries listed in `requirements.txt`.
 
 ### Install on Linux
