@@ -1,4 +1,5 @@
 # Illusion-Img (GUI)
+<img src="https://github.com/kdo2064/Illusion-Img/blob/main/Assest/program.png?raw=true">
 
 This program provides a **Graphical User Interface (GUI)** to convert images into "invisible" images that can bypass Instagram’s visibility on the Android app. The bug works exclusively on the Instagram Android app and this tool operates on both Linux and Windows platforms.
 
@@ -56,10 +57,8 @@ This program provides a **Graphical User Interface (GUI)** to convert images int
 
 ### Demo
 
-[![Demo](https://user-images.githubusercontent.com/kdo2064/demo.jpg)](https://github.com/kdo2064/Illusion-Img)
+[![Demo](https://github.com/kdo2064/Illusion-Img/blob/main/Assest/program.png?raw=true)](https://github.com/kdo2064/Illusion-Img)
 
 For a full video walkthrough on how to use the program, check out this [video tutorial](https://github.com/kdo2064/Illusion-Img).
 
 ---
-
-This README now reflects that the program uses a GUI. Let me know if you'd like to make any additional changes!
